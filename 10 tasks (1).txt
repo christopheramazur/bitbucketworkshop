@@ -1,0 +1,13 @@
+A bat and a ball cost one dollar and ten cents in total.  How much does the ball cost?
+
+What is the name given to the workplace and official residence of the President of the United States?
+
+What is the biggest animal in the world?
+
+A bat costs fifty cents more than a fifty cent stamp. 
+
+Change line 3 from "biggest" to "smallest" and provide an answer for the smallest animal in the world on that line.
+
+Read the label off of the back of one of the sugar packets to your team.
+
+Write pseudocode below that takes two integer values between 25 and 75 as input, and returns true if there is a common digit in both numbers.
